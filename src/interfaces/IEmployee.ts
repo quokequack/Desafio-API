@@ -1,6 +1,6 @@
 export interface IEmployee {
     "name": string,
-    "sex": number,
+    "sex": string,
     "role": string,
     "salary": number,
     "country": string,
